@@ -1,0 +1,30 @@
+// Fonts
+$page-header     : calc(3rem + 0.390625Vmin);
+$sub-header      : calc(2.2rem - 0.390625Vmin);
+$sub-header-text : calc(1rem - 0.39274Vmin);
+
+
+//Light colors
+$light-background : #fff;
+$light-headings   : #fffbfb;
+$light-text       : #efefef;
+
+// Dark colors
+$dark-background : #121010;
+$dark-headings   : #121212;
+$dark-text       : #5f5f5f;
+
+.Footer{
+    // position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: $dark-background;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    &__text{
+        color: $light-text;
+        font-size: $sub-header-text;
+    }
+}
