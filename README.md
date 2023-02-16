@@ -1,35 +1,39 @@
-# Front End Templates 
+# **Front End Templates** 
+
 
 ```
-> All the templates use react hooks and not classes
-> All the components are set to export the component by default
-> All the components import the scss file for styling by default but can also produce the same result using the css file
+ All the templates use react hooks and not classes
+ All the components are set to export the component by default
+ All the components import the scss file for styling by default but can also produce the same result using the css file
 ```
+
 
 ********************************************************************************************
 
-## Description
+## **Description**
 
 A repo where you can find all you need in terms of basic structures for your React Webapp's appearence and you can pick whatever you like.
 
 You can also use these templates for your html projects with a few small modification.
 
-Feel free to contact us in case of any suggestions or problems that you notice.
+*feel free to contact us in case of any suggestions or problems that you notice*
 
 ********************************************************************************************
 
-> These Templates are just the front end view of things and dont include any states or HTTP requests but they can easily be modified to do so
+> ***These Templates are just the front end view of things and dont include any states or HTTP requests but they can easily be modified to do so***
 
 ********************************************************************************************
 
-## Template directory structure
+## **Template directory structure**
 
-Every template contains two main files excluding the images
+Every component contains 3 files excluding the images
 ```
 1st - The js file containing one component and exports that component as default
-2nd - The style sheets css/scss
+2nd - Style sheet scss
+3rd - Style Sheet css
 ```
-All the templates have been distributed in different categories and the screenshots of their working can be found in their respective parent directorie's readme and in the sub directory itself
+
+*All the templates have been distributed in different categories and the screenshots of their working can be found in their respective parent directorie's readme and in the sub directory itself*
 
 ********************************************************************************************
 
