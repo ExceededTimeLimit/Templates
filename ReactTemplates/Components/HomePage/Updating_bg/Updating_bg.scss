@@ -1,0 +1,25 @@
+// Fonts
+$page-header : calc(3rem + 0.390625Vmin);
+$sub-header-text : calc(1rem - 0.39274Vmin);
+
+
+//Light colors
+$light-background : #fff;
+$light-headings   : #fffbfb;
+$light-text       : #efefef;
+
+// Dark colors
+$dark-background : #121010;
+$dark-headings   : #121212;
+$dark-text       : #5f5f5f;
+
+
+.Updating_bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $light-text;
+    font-size: $page-header;
+    min-height: 100vh;
+    min-width: 100vw;
+}

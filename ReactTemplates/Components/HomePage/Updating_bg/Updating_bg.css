@@ -1,0 +1,9 @@
+.Updating_bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:  #efefef;
+    font-size: calc(3rem + 0.390625Vmin);
+    min-height: 100vh;
+    min-width: 100vw;
+}

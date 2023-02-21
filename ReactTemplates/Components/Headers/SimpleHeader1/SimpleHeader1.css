@@ -1,0 +1,13 @@
+.Header{
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    background-color:  #121010;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Header__text{
+    color:  #efefef;;
+    font-size: calc(1.8rem - 0.390625Vmin);
+}
