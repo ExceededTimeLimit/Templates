@@ -12,3 +12,14 @@ Every component contains 3 files excluding the images
 *All the templates have been distributed in different categories and the screenshots of their working can be found in their respective parent directorie's readme and in the sub directory itself*
 
 ********************************************************************************************
+
+## **Suggested packages to install**
+
+```
+  Name    : sass
+  Version : ^1.57.1
+  
+  
+  Name    : framer-motion
+  Version : ^9.4.0
+```
