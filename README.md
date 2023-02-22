@@ -4,7 +4,8 @@
 ```
  All the templates use react hooks and not classes
  All the components are set to export the component by default
- All the components import the scss file for styling by default but can also produce the same result using the css file
+ All the components import the scss file for styling by default 
+ but can also produce the same result using the css file
 ```
 
 
@@ -21,19 +22,6 @@ You can also use these templates for your html projects with a few small modific
 ********************************************************************************************
 
 > ***These Templates are just the front end view of things and dont include any states or HTTP requests but they can easily be modified to do so***
-
-********************************************************************************************
-
-## **Template directory structure**
-
-Every component contains 3 files excluding the images
-```
-1st - The js file containing one component and exports that component as default
-2nd - Style sheet scss
-3rd - Style Sheet css
-```
-
-*All the templates have been distributed in different categories and the screenshots of their working can be found in their respective parent directorie's readme and in the sub directory itself*
 
 ********************************************************************************************
 
